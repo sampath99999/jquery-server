@@ -17,6 +17,7 @@ app.get("/", (req, res) => {
         dataadj: (Math.floor(Math.random() * 100) + 10),
         datacash: (Math.floor(Math.random() * 100) + 10),
         dwa: (Math.floor(Math.random() * 100) + 10),
+        dwaest: (Math.floor(Math.random() * 100) + 10),
         priority: (Math.floor(Math.random() * 100) + 10),
         salary: (Math.floor(Math.random() * 100) + 10),
         pensionsalary: (Math.floor(Math.random() * 100) + 10),
